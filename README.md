@@ -1,7 +1,7 @@
 # Dodge the ball 2
 A sequel to my 2nd ever game named Dodge the ball which was made in Clickteam Fusion!!
 
-And its also my first game in raylib
+And this is also my first game in raylib :)
 
 ## Made By:
 - [Axuko](https://github.com/Ethan-makes-music)
